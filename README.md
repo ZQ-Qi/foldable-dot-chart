@@ -5,4 +5,4 @@
 
 ### 由于数据源为外部json，需要加载至Tomcat等服务器方可打开
 
-!(https://github.com/ZQ-Qi/foldable-dot-chart/blob/master/example.gif?raw=true)
+![example](https://github.com/ZQ-Qi/foldable-dot-chart/blob/master/example.gif?raw=true)
